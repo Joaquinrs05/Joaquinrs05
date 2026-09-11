@@ -54,16 +54,6 @@ Me interesa especialmente el punto de encuentro entre el diseño de producto, la
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joaquinrs05&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaquinrs05&layout=compact&hide_border=true&title_color=0A66C2)
-
-</div>
-
 ---
 
 ## 📬 Contacto
